@@ -1,0 +1,6 @@
+{
+  "name": "Vệ Binh Tinh Vân",
+  "description": "Trò chơi hành động bắn súng không gian 2D nhịp độ nhanh — điều khiển chiến cơ vượt qua các đợt tấn công và nâng cấp hỏa lực.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
